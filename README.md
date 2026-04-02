@@ -1,5 +1,5 @@
 # 模擬結果分析 (Simulation Results Analysis)
-本實驗比較了基於深度神經網路 (DNN) 與傳統線性最小均方誤差 (LMMSE) 的通道估測器 (Channel Estimator) 在 SISO-OFDM 系統中的均方誤差 (Mean Square Error, MSE) 表現。測試涵蓋了 5 dB 至 40 dB 的訊雜比 (SNR) 範圍，並針對「具備循環前綴 (with CP)」與「移除循環前綴 (without CP)」兩種情境進行了深度探討。
+本實驗比較了基於深度神經網路 (DNN) 與傳統線性最小均方誤差 (LMMSE) 的通道估測器 (Channel Estimator) 在 OFDM 系統中的均方誤差 (Mean Square Error, MSE) 表現。測試涵蓋了 5 dB 至 40 dB 的訊雜比 (SNR) 範圍，並針對「具備循環前綴 (with CP)」與「移除循環前綴 (without CP)」兩種情境進行了深度探討。
 <p align="center">
 <img width="600" height="450" alt="image" src="https://github.com/user-attachments/assets/803ccaf6-bede-4d72-a998-562649a9c868" />
 </p>
