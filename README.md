@@ -3,7 +3,7 @@
 <p align="center">
 <img width="600" height="450" alt="image" src="https://github.com/user-attachments/assets/803ccaf6-bede-4d72-a998-562649a9c868" />
 </p>
-<p align="center"> <strong>Figure 1<strong> </p>
+<p align="center"> <strong>Figure 1</strong>strong> </p>
 
 ## 根據 Figure 1 的模擬結果，我們可以觀察到以下幾個關鍵結論：
 ### 理想情境（具備 CP，無符號間干擾）：
