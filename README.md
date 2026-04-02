@@ -1,6 +1,8 @@
 # 模擬結果分析 (Simulation Results Analysis)
 本實驗比較了基於深度神經網路 (DNN) 與傳統線性最小均方誤差 (LMMSE) 的通道估測器 (Channel Estimator) 在 SISO-OFDM 系統中的均方誤差 (Mean Square Error, MSE) 表現。測試涵蓋了 5 dB 至 40 dB 的訊雜比 (SNR) 範圍，並針對「具備循環前綴 (with CP)」與「移除循環前綴 (without CP)」兩種情境進行了深度探討。
 
+<img width="874" height="625" alt="image" src="https://github.com/user-attachments/assets/803ccaf6-bede-4d72-a998-562649a9c868" />
+
 ## 根據 Figure 1 的模擬結果，我們可以觀察到以下幾個關鍵結論：
 ### 理想情境（具備 CP，無符號間干擾）：
 * 在系統擁有完整 CP 的理想條件下（圖中實線），系統不存在符號間干擾 (Inter-Symbol Interference, ISI)。
